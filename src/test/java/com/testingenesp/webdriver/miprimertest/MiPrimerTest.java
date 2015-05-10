@@ -1,4 +1,4 @@
-package com.testingenesp.webdriver;
+package com.testingenesp.webdriver.miprimertest;
 
 import org.junit.Assert;
 import org.junit.Test;
